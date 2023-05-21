@@ -1,0 +1,79 @@
+main{
+    font-family:sans-serif;
+    background-color:#e6e6e6;
+    margin:5px;
+    padding:5px;
+    border-radius:5px;
+    }
+    
+    #title{
+    padding:0;
+    margin:0;
+    text-align:center;
+    }
+    
+    .header{
+      margin:25px 0 0 0;
+      width:100%;
+    }
+    
+    #image{
+      height:auto;
+      margin:0 auto;
+      display:block;
+      max-width:100%;
+      text-align: center; 
+    }
+   
+    #img-div{
+    padding:10px;
+    margin:10px;
+    background-color:white;
+    
+    }
+    
+    #img-caption{
+      text-align:center;
+    }
+    
+    .header p{
+      text-align:center;
+    }
+    
+    .info h3{
+      text-align:center;
+      margin:50px;
+      padding:0 auto;
+    }
+    
+    .bold{
+      font-weight: bold;
+    }
+    
+    #tribute-info{
+      margin:0 auto;
+      max-width:575px;
+    }
+    
+    li{
+      padding:15px;
+    }
+    
+    .slogan{
+      max-width:575px;font-style:italic;
+      text-align:center;
+      margin:0 auto;
+      padding:25px 0;
+    }
+    
+    #last{
+      font-size:17px;
+    margin:auto;
+    padding:10px;
+    max-width:900px;
+    text-align:center;
+    }
+   img
+   {
+      display:block;
+   }
